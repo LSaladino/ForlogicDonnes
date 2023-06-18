@@ -1,0 +1,3 @@
+[submodule "smartdonnes"]
+	path = smartdonnes
+	url = https://github.com/LSaladino/ForlogicDonnes.git
